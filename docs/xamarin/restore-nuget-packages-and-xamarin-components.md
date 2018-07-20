@@ -13,6 +13,3 @@ but you can simply modify it if you need to.
 ## Restore Xamarin Components
 
 Add the `Xamarin Components Restore` step, after the `Xamarin User Management` step.
-
-__Xamarin Components requires Xamarin authentication - for more information
-please see the [Connect your Xamarin account to Bitrise](/xamarin/connect-your-xamarin-account-to-bitrise/) guide!__
