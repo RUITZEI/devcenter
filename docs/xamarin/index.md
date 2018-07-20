@@ -13,7 +13,6 @@ video session about setting up Xamarin apps on Bitrise here: [https://www.youtub
 
 ### Getting Started
 
-* [Connect your Xamarin account to Bitrise](/xamarin/connect-your-xamarin-account-to-bitrise) 
 * [Creating your first App on Bitrise](/getting-started/create-your-first-app-on-bitrise)
 * [Restore NuGet packages and Xamarin Components](/xamarin/restore-nuget-packages-and-xamarin-components)
 
